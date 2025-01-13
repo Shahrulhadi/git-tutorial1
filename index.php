@@ -9,8 +9,8 @@
 <body>
 
   <h1>Hello world!</h1>
-  <div><img src="gundam1.jpg" alt="gundam"
-      style="width:100%;max-width:960px"></div>
+  <div><img src="gundam1.png" alt="gundam"
+      style="width:100%;max-width:800px"></div>
   <p>This is the first file in my new Git Repo.</p>
   <p>A new line in our file!</p>
   <p>This line is here to show how merging works.</p>
