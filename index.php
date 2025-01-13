@@ -9,9 +9,12 @@
 <body>
 
   <h1>Hello world!</h1>
+  <div><img src="gundam1.jpg" alt="gundam"
+      style="width:100%;max-width:960px"></div>
   <p>This is the first file in my new Git Repo.</p>
   <p>A new line in our file!</p>
   <p>This line is here to show how merging works.</p>
+  <div><img src="pagani-zonda.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
 </body>
 
